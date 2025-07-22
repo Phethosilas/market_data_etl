@@ -1,0 +1,11 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="20" y="60" width="150" height="60" fill="#4F8EF7" rx="10"/>
+  <text x="95" y="95" font-size="16" text-anchor="middle" fill="#fff">Polygon API</text>
+  <polygon points="170,90 210,90 210,100 170,100" fill="#888"/>
+  <rect x="210" y="60" width="180" height="60" fill="#43A047" rx="10"/>
+  <text x="300" y="95" font-size="16" text-anchor="middle" fill="#fff">Transform (ETL Logic)</text>
+  <polygon points="390,90 430,90 430,100 390,100" fill="#888"/>
+  <rect x="430" y="60" width="150" height="60" fill="#F9A825" rx="10"/>
+  <text x="505" y="95" font-size="16" text-anchor="middle" fill="#fff">SQLite DB</text>
+  <text x="300" y="30" font-size="18" text-anchor="middle" fill="#222">Stock Market Data Pipeline</text>
+</svg>
