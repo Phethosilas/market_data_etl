@@ -2,3 +2,5 @@
 apache-airflow-providers-http
 apache-airflow-providers-sqlite
 pyarrow
+apache-airflow-providers-postgres
+psycopg2-binary
